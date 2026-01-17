@@ -1,0 +1,23 @@
+# aside files
+*.txt
+!requirements.txt
+*.json
+*.log
+debug_*
+*copy*
+*-stable.py
+out/
+backup/
+
+# adk
+.adk/
+adk-web/
+
+# venv
+.venv/
+
+# env
+.env
+
+# pycache
+__pycache__/
